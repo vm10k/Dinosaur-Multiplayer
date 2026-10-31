@@ -5,6 +5,11 @@
 
 ### ★ REAL-TIME MULTIPLAYER RETRO RUNNER ARENA ★
 
+<br/>
+
+  <img width="100%" alt="Dino Arena Banner" src="https://github.com/user-attachments/assets/5156408a-382a-4406-a668-5a528c208c6f" />
+
+<br/><br/>
 [![Play Online](https://img.shields.io/badge/PLAY_NOW-ONLINE_IN_BROWSER-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dinoarena.ct.ws/)
 [![Discord](https://img.shields.io/badge/COMMUNITY-DISCORD-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Cy6NT8kjkW)
 [![Leaderboard](https://img.shields.io/badge/RANKINGS-LIVE_LEADERBOARD-f59e0b?style=for-the-badge&logo=speedtest&logoColor=black)](https://dinoarena.ct.ws/leaderboard)
@@ -87,7 +92,6 @@ Express yourself on the track! Paint custom pixel art directly onto your dino sp
   <img width="48%" alt="Lobby Screen" src="https://github.com/user-attachments/assets/14389f2c-6552-4e33-976c-954abe12cf45" />
   &nbsp;
   <img width="48%" alt="Multiplayer Race" src="https://github.com/user-attachments/assets/c4913381-d50e-4011-b968-40e170a4cef0" />
-  <img width="100%" alt="Dino Arena Banner" src="https://github.com/user-attachments/assets/5156408a-382a-4406-a668-5a528c208c6f" />
 </div>
 
 ---
